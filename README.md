@@ -1,2 +1,3 @@
 # Registro inicial del proyecto.
-# Primer cambio local
+# Primer cambio local.
+# Edicion prohibida.
